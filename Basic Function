@@ -1,0 +1,4 @@
+# Select colums from table 
+SELECT c1,c2 FROM table_1
+# Select all colums from table 
+SELECT * FROM table 
